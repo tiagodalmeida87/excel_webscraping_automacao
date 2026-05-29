@@ -1,14 +1,14 @@
 # 🚀 Projeto de Engenharia de Dados | Automação Web Scraping com Selenium
 
-![Excel_transformacao_Web_Scraping](https://github.com/tiagodalmeida87/excel_webscraping_automacao/blob/main/assets/transf_planilha_add_informacao.jpg)
-
-> *ALteração, alimentação e transformação de planilha em Excel desenvolvido no VsCode com Python, Pandas e Automação RPA. 
-
 ## 📌 Sobre o Projeto
 
 Desenvolvimento de uma automação de coleta e atualização de dados utilizando **Python, Selenium e Pandas**, com foco em resolução de problemas de negócio através de técnicas de **Web Scraping** e automação de processos (RPA).
 
 O projeto simula um desafio técnico de **Engenharia de Dados**, onde foi necessário consumir dados de uma planilha Excel, acessar um portal do Banco Central e atualizar automaticamente valores monetários corrigidos por índices econômicos.
+
+![Excel_transformacao_Web_Scraping](https://github.com/tiagodalmeida87/excel_webscraping_automacao/blob/main/assets/transf_planilha_add_informacao.jpg)
+
+> *Alteração, alimentação e transformação de planilha em Excel desenvolvido no VsCode com Python, Pandas e Automação RPA. 
 
 ---
 
